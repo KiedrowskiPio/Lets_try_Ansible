@@ -1,3 +1,12 @@
-192.168.102.129 apache_package=apache2 php_package=libapache2-mod-php
-192.168.102.130 apache_package=apache2 php_package=libapache2-mod-php
-192.168.102.131 apache_package=apache2 php_package=libapache2-mod-php
+[web_servers]
+192.168.102.129
+192.168.102.132
+
+[db_servers]
+192.168.102.130
+
+[file_servers]
+192.168.102.131
+
+[steam_servers]
+192.168.102.131
